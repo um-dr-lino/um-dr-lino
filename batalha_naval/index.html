@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Batalha Naval — Versão Simplificada</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <h1>🚢 Batalha Naval</h1>
+      <p class="desc">
+        Clique nas células para tentar encontrar os navios escondidos.
+      </p>
+
+      <div id="tabuleiro" class="grid"></div>
+
+      <div class="actions">
+        <button id="reiniciar">Reiniciar</button>
+        <span class="legend"><span>💥</span> acerto • <span>🌊</span> erro</span>
+      </div>
+
+      <footer class="foot">
+        <small>Tabuleiro 5×5 • 3 navios escondidos</small>
+      </footer>
+    </main>
+
+    <script src="script.js"></script>
+    <script>
+      // Recarrega a página para reiniciar rapidamente
+      document.getElementById("reiniciar").addEventListener("click", () => location.reload());
+    </script>
+  </body>
+</html>
