@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Lino
+# Olá, eu sou o Lino
 
 ## 🎓 Sobre mim
 - Faço **Engenharia de Software** na Católica de Santa Catarina (`catolica`)
