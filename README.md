@@ -9,13 +9,14 @@
 - Estudante de programação e tecnologia 💻
 - Apaixonado por criar projetos com **Python**, **JavaScript** ⚡
 
-## 🚀 Meus Projetos
-- [Batalha Naval JS](https://github.com/linocatolica/batalha-naval) – Jogo de Batalha Naval feito em JavaScript
+## 🚀 Meus Projetos Principais
+- [Games-Hub](https://github.com/um-dr-lino/Games-Hub.git) – Jogo de Batalha Naval feito em JavaScript
 - [BookVerse](https://github.com/linocatolica/bookverse) – Projeto em C# para gerenciamento de livros
 - [Projetos Arduino](https://github.com/linocatolica/arduino) – Projetos educativos com sensores e LEDs
-
+- [Projeto de API](https://github.com/um-dr-lino/api_project.git) - Projeto de API feito na alura
+  
 ## Projetos pessoais
-- Faço desenvolvimento de sites e aplicativos 
+- Faço desenvolvimento de sites e aplicativos para pequenas empresas e para alguns amigos próximos
 
 ## 📊 Estatísticas do GitHub
 ![Lino's GitHub stats](https://github-readme-stats.vercel.app/api?username=um-dr-lino&show_icons=true&theme=radical)
