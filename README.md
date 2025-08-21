@@ -11,8 +11,7 @@
 
 ## 🚀 Meus Projetos Principais
 - [Games-Hub](https://github.com/um-dr-lino/Games-Hub.git) – Jogo de Batalha Naval feito em JavaScript
-- [BookVerse](https://github.com/linocatolica/bookverse) – Projeto em C# para gerenciamento de livros
-- [Projetos Arduino](https://github.com/linocatolica/arduino) – Projetos educativos com sensores e LEDs
+- [BookVerse](https://github.com/linocatolica/bookstore_project) – Projeto em C# para gerenciamento de livros
 - [Projeto de API](https://github.com/um-dr-lino/api_project.git) - Projeto de API feito na alura
   
 ## Projetos pessoais
